@@ -11,7 +11,7 @@ function App() {
 
   useEffect(() => (fetchActress()), []);
 
-  return (
+  return ( 
     <>
       <div className="container">
         <div className="row">
